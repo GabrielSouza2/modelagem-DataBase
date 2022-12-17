@@ -1,6 +1,8 @@
 # modelagem-DataBase
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7E72C&width=435&lines=SIR+-+SISTEMA+INTEGRA%C3%87%C3%83O+RESILIA)](https://git.io/typing-svg)
 <br>
+<img src="https://user-images.githubusercontent.com/112514408/208267905-82ed25fc-299f-41b3-826a-8a873743399c.jpg" alt="projeto" height=50>
+<br>
 Projeto individual do curso de Dev. Web FullStack do projeto Programadores Carioca - SENAC RJ & Resilia.
 <br>
 <br>
